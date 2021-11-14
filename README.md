@@ -8,17 +8,17 @@
  </p>
  
  
- <h2> ⚛️ Sobre</h2>
+ <h2> ⚛️ﾠSobre</h2>
  <p>Projeto feito durante as aulas de revisão do módulo III do bootcamp fullstack web da <a href="https://www.labenu.com.br/" target="_blank">Labenu</a>. O Cookenu é uma aplicação web simples onde o usuário pode fazer login/cadastro e ter acesso a um feed de receitas que foram postadas por outros usuários da API. O usuário também pode postar a sua própria receita (com nome, modo de fazer e a URL da foto) caso queira. A API utilizada pertence à Labenu. O conteúdo só é visível para usuários que estejam logados, então para visualizar o feed e ter a opção de postar receitas você pode usar os dados de login para visitantes abaixo ou criar a sua própria conta.
 </p><br/>
  
  
- <h2> 🔗 Link (surge)</h2>
+ <h2> 🔗ﾠLink (surge)</h2>
  - <a href="http://fortunate-dust.surge.sh/" target="_blank">Cookenu</a>
  <p>- <b>Login:</b> visitante@github.com e <b>senha:</b> 123456 (também é possível que você faça o seu próprio cadastro)</p><br/>
 
 
-<h2> 🛠️ Tecnologias</h2>
+<h2> 🛠️ﾠTecnologias</h2>
 <p> - <a href="https://pt-br.reactjs.org/" target="_blank">React.js</a> (v17.0.2): React é uma biblioteca JavaScript para construção de interfaces de usuário.</p>
 <p> - <a href="https://axios-http.com/docs/intro" target="_blank">Axios</a> (v0.23.0): O Axios é um biblioteca que permite uma integração do projeto React com qualquer serviço de API disponível.</p>
 <p> - <a href="https://styled-components.com/docs" target="_blank">Styled Components</a> (v5.3.3): Styled Components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que permite escrever códigos CSS dentro do Javascript.</p>
@@ -27,7 +27,7 @@
 <p> - <a href="https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces" target="_blank">API</a>: API é um conjunto de definições e protocolos usado no desenvolvimento e na integração de software de aplicações. É um acrônimo em inglês que significa interface de programação de aplicações.</p>
 <br/>
 
-<h2> 🖼️ Imagens (clique em cima da imagem para vê-la em tamanho maior)</h2>
+<h2> 🖼️ﾠImagens (clique em cima da imagem para vê-la em tamanho maior)</h2>
 <table align="center">
   <tr>
     <td align="center"><a href="https://user-images.githubusercontent.com/88038506/141696021-351355f0-6f58-4753-81e5-189bd388d19d.png" target="_blank">
@@ -70,14 +70,14 @@
   
   
  
-<h2> 💻 Pré-requisitos </h2>
+<h2> 💻ﾠPré-requisitos </h2>
 
 <p>Antes de começar você vai precisar ter instalado em sua máquina as seguintes ferramentas: o <a href="https://git-scm.com" target="_blank">Git</a> e o <a href="https://nodejs.org/en/" target="_blank">Node.js</a>.
 Além disso, é bom ter uma IDE para trabalhar com o código. Eu recomendo o <a href="https://code.visualstudio.com" target="_blank">VSCode</a>.</p><br/>
 
   
 
-<h2> 🚀 Rodando o projeto </h2>
+<h2> 🚀ﾠRodando o projeto </h2>
 
 ```bash
 # Clone este repositório
@@ -108,7 +108,7 @@ $ npm run start
 ```
   <p></p><br/>
  
-  <h2> 👩🏻‍💻 Desenvolvedora</h2>
+  <h2> 👩🏻‍💻ﾠDesenvolvedora</h2>
 <table align="center">
   <tr>
     <td align="center"><a href="https://github.com/mhsouza88" target="_blank">
