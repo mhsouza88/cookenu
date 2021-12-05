@@ -13,8 +13,8 @@
 </p><br/>
  
  
- <h2> 🔗ﾠLink (surge)</h2>
- - <a href="http://fortunate-dust.surge.sh/" target="_blank">Cookenu</a>
+ <h2> 🔗ﾠLink</h2>
+ - <a href="http://cookenu.mhsouza88.com/" target="_blank">Cookenu</a>
  <p>- <b>Login:</b> visitante@github.com e <b>senha:</b> 123456 (também é possível que você faça o seu próprio cadastro)</p><br/>
 
 
